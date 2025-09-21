@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    .section {
+      margin-bottom: 20px;
+    }
+    .header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .header h1 {
+      margin: 0;
+    }
+    .contact {
+      font-size: 14px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Mochammad Raffy Anugerah</h1>
+    <p class="contact">
+      📧 your.email@example.com | 📞 +62 812 3456 7890 <br />
+      🌐 github.com/yourusername | 📍 Surabaya, Indonesia
+    </p>
+  </div>
+
+  <div class="section">
+    <h2>🎓 Education</h2>
+    <p><strong>Institut Teknologi Sepuluh Nopember (ITS)</strong> — Business Management (Double Degree Finance at Asia University, Taiwan)</p>
+    <p>Expected Graduation: 202X</p>
+  </div>
+
+  <div class="section">
+    <h2>💼 Experience</h2>
+    <p><strong>Project: SHORKIES (Sorghum Cookies)</strong> — Co-Founder</p>
+    <ul>
+      <li>Developed healthy cookies product from local sorghum.</li>
+      <li>Focused on sustainability and farmer empowerment.</li>
+    </ul>
+
+    <p><strong>Project: NOTICES App</strong> — Team Member</p>
+    <ul>
+      <li>Created student productivity app with reminders and collaboration tools.</li>
+      <li>Worked on business proposal and market research.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>⚙️ Skills</h2>
+    <ul>
+      <li>Business Strategy & Market Analysis</li>
+      <li>Entrepreneurship & Project Management</li>
+      <li>Microsoft Office, Notion, TradingView</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>🌍 Languages</h2>
+    <ul>
+      <li>Bahasa Indonesia — Native</li>
+      <li>English — Intermediate</li>
+    </ul>
+  </div>
+</body>
+</html>
